@@ -49,7 +49,7 @@ body{
 }
 .container div:hover{
   box-shadow: 0 0 39px 12px rgba(37, 37, 37, 0.1);
-  background-image: url('background.jpg');
+  background-color: var(--dark-color);
   color: #fff;
 }
 .container p{
